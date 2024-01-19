@@ -1,0 +1,13 @@
+Remaning Tasks:
+-Shape (Saad)
+-Elevation (Petar)
+-Lakes (Petar)
+-Rivers (Preston)
+-Flow (Preston)
+-Aquaifers (Petar)
+-Soil (Saad)
+-Biomes (Saad)
+-Diagram (Preston)
+-Seeds (Petar)
+-Write Up questions (Everyone)
+-Unit tests for all classes (Everyone)
